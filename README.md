@@ -91,4 +91,4 @@ The 2 paths used in the routing module are
 Refer to https://angular.io/guide/quickstart to get an understanding of how angular 6 works
 
 
-GTC Ang6 to Ang7
+GTC Ang7
